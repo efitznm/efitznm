@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**efitznm/efitznm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Your preferred name and, optionally, pronouns
 
-Here are some ideas to get you started:
+Eric Fitzgerald (he/him)
+Follow me on [LinkedIn](https://www.linkedin.com/in/efitznm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####Why did you sign up for this bootcamp?
+
+I want to work with non-profits on data strategy, improving service delivery, and ease administrative burdens on social service workers.
+
+####If you are working, what do you do? If you are not working, what would you like to do?
+
+I quit my job so I could focus on this bootcamp. I was a case manager with Wellness CNM. I wanted to develop a new skillset that could still support social impact.
+
+####If you had your human body, but the head of an animal, what animal would you pick?
+
+I would take the head of a wolf because then I'd be kind of like Remus Lupin.
+
+####If you had to delete all but 3 apps from your smartphone, which ones would you keep?
+
+* Instagram
+* Maps
+* YouTube
+
+####What are your favorite podcasts? (Or if you're not a podcast person share your favorite tv show, music, or other category.)
+
+Favorite podcast is Diary of a CEO, favorite movie is After The Dark, and music I enjoy is EDM.
+
+####What sports/hobbies do you enjoy and why?
+
+* Cycling - because I watched Premium Rush one time with Joseph Gordon Levitt
+* Jiu Jitsu - tight knit community
+* Strength Training - makes me feel good
+  
+####Anything else you want to share - be creative and have fun!
+
+I've got a dog named Coa who is an Australian Shepard. The bestest boy.
+
+[Aussie](!https://asca.org/wp-content/uploads/2022/06/port1735-240x300-1.jpg)
