@@ -37,4 +37,4 @@ Favorite podcast is Diary of a CEO, favorite movie is After The Dark, and music 
 
 I've got a dog named Coa who is an Australian Shepard. The bestest boy.
 
-[Aussie](!https://asca.org/wp-content/uploads/2022/06/port1735-240x300-1.jpg)
+![Aussie](https://asca.org/wp-content/uploads/2022/06/port1735-240x300-1.jpg)
