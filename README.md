@@ -3,6 +3,7 @@
 ### Your preferred name and, optionally, pronouns
 
 **Eric Fitzgerald** _(he/him)_
+
 Follow me on [LinkedIn](https://www.linkedin.com/in/efitznm/)
 
 ### Why did you sign up for this bootcamp?
